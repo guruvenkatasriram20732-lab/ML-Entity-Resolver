@@ -1,0 +1,4 @@
+{
+  "best_threshold": 0.75,
+  "use_sklearn": true
+}

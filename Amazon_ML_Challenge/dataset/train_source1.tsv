@@ -1,0 +1,16 @@
+id	name	address	city	state	zip	country
+s1_001	Starbucks Coffee Inc	102 Pike St	Seattle	WA	98101	United States
+s1_002	Boulangerie Paul	28 Rue de Rivoli	Paris	Ile-de-France	75004	France
+s1_003	Infosys Limited	Electronics City Hosur Rd	Bengaluru	Karnataka	560100	India
+s1_004	McDonald's Restaurant	110 N Carpenter St	Chicago	IL	60607	USA
+s1_005	Tata Consultancy Services Ltd	Nirmal Building Nariman Point	Mumbai	Maharashtra	400021	India
+s1_006	Carrefour Market	73 Boulevard Saint-Germain	Paris	Paris	75005	France
+s1_007	Apple Store	1 Infinite Loop	Cupertino	CA	95014	US
+s1_008	Wipro Technologies	Doddakannelli Sarjapur Road	Bangalore	Karnataka	560035	India
+s1_009	Chez Janou Bistro	2 Rue Roger Verlomme	Paris	Paris	75003	France
+s1_010	Target Corporation	1000 Nicollet Mall	Minneapolis	MN	55403	USA
+s1_011	Reliance Retail Ltd	Maker Chambers IV Nariman Point	Mumbai	Maharashtra	400021	India
+s1_012	Subway Sandwiches	200 5th Ave	New York	NY	10010	US
+s1_013	Le Pain Quotidien	18 Place du Marche Saint-Honore	Paris		75001	France
+s1_014	HDFC Bank Ltd	Senapati Bapat Marg Lower Parel	Mumbai	MH	400013	India
+s1_015	Trader Joe's	142 E 14th St	New York	NY	10003	United States

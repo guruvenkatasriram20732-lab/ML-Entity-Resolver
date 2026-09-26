@@ -1,0 +1,12 @@
+id	name	address	city	state	zip	country
+s3_201	Starbucks Coffee	Pike St Suite 102	Seattle	WA	98101	USA
+s3_202	Maison Paul Bakery	28 Rue Rivoli	Paris		75004	France
+s3_203	Infosys Technologies	Electronics City	Bangalore	KA	560100	India
+s3_204	McDonald's Chicago HQ	110 N Carpenter St	Chicago	IL	60607	US
+s3_205	Tata Consultancy Services	Nariman Point	Mumbai	MH	400021	India
+s3_206	Supermarche Carrefour	73 Bd Saint-Germain	Paris	Paris	75005	FR
+s3_207	Apple Inc	One Infinite Loop	Cupertino	CA	95014	US
+s3_208	Wipro Infotech	Sarjapur Road	Bengaluru	Karnataka	560035	India
+s3_209	Restaurant Chez Janou	2 R Roger Verlomme	Paris	Paris	75003	France
+s3_210	Target	1000 Nicollet Mall Ste 1	Minneapolis	MN	55403	United States
+s3_999	Tata Motors Limited	Bombay House Homi Mody Street	Mumbai	MH	400001	India

@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "python",
+  "python.analysis.extraPaths": ["${workspaceFolder}/src"],
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true,
+  "terminal.integrated.defaultProfile.linux": "bash"
+}

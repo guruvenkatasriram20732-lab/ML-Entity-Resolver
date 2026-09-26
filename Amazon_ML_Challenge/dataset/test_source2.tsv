@@ -1,0 +1,11 @@
+id	name	address	city	state	zip	country
+test_s2_01	AWS Amazon	410 Terry Avenue North	Seattle	WA	98109	US
+test_s2_02	Galeries Lafayette	40 Bd Haussmann	Paris	Paris	75009	FR
+test_s2_03	Zomato Ltd	Meghdoot Bldg Nehru Place	New Delhi	Delhi	110019	IN
+test_s2_04	Walmart Store	702 Southwest 8th Street	Bentonville	AR	72716	USA
+test_s2_05	Hotel Le Bristol	112 R du Faubourg St-Honore	Paris	Paris	75008	France
+test_s2_06	Swiggy HQ	Outer Ring Road Maruthi Chambers	Bangalore	Karnataka	560068	India
+test_s2_07	Chanel Cambon Store	31 Rue Cambon	Paris	Paris	75001	FR
+test_s2_08	Whole Foods Market Grocery	525 North Lamar Boulevard	Austin	TX	78703	United States
+test_s2_09	Mahindra & Mahindra	Apollo Bunder Gateway Bldg	Mumbai	MH	400001	India
+test_s2_99	Random Unrelated Shop	123 Main Road	Austin	TX	78701	USA
